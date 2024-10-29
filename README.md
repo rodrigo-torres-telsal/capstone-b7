@@ -26,3 +26,5 @@ Phone: +1 234 567 890
 We look forward to launching this exciting new project and enhancing our online presence to better serve our customers.
 Thank you,
 The Travel Europe LLC Team
+
+By Eva Ramirez and Rodrigo Torres
