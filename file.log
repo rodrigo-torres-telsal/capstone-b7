@@ -301,3 +301,30 @@ no changes added to commit (use "git add" and/or "git commit -a")
   289  history >> file.log 
 [main 6341a56] This is the latest update
  1 file changed, 289 insertions(+)
+[main b49ccbe] We deployed the app on all services
+ 25 files changed, 34 insertions(+)
+ create mode 100644 Europe Travel/.gcloudignore
+ create mode 100644 Europe Travel/app.yaml
+ rename Europe Travel/{ => www}/css/style.css (100%)
+ rename Europe Travel/{ => www}/images/about-vid.mp4 (100%)
+ rename Europe Travel/{ => www}/images/contact-img.svg (100%)
+ rename Europe Travel/{ => www}/images/home-bg.jpg (100%)
+ rename Europe Travel/{ => www}/images/icon-1.png (100%)
+ rename Europe Travel/{ => www}/images/icon-2.png (100%)
+ rename Europe Travel/{ => www}/images/icon-3.png (100%)
+ rename Europe Travel/{ => www}/images/icon-4.png (100%)
+ rename Europe Travel/{ => www}/images/img-1.jfif (100%)
+ rename Europe Travel/{ => www}/images/img-2.jfif (100%)
+ rename Europe Travel/{ => www}/images/img-3.jpg (100%)
+ rename Europe Travel/{ => www}/images/img-4.jpg (100%)
+ rename Europe Travel/{ => www}/images/img-5.jpg (100%)
+ rename Europe Travel/{ => www}/images/img-6.jpg (100%)
+ rename Europe Travel/{ => www}/images/img-7.jpg (100%)
+ rename Europe Travel/{ => www}/images/img-8.jpg (100%)
+ rename Europe Travel/{ => www}/images/img-9.jpg (100%)
+ rename Europe Travel/{ => www}/images/pic-1.jpg (100%)
+ rename Europe Travel/{ => www}/images/pic-2.png (100%)
+ rename Europe Travel/{ => www}/images/pic-3.jpg (100%)
+ rename Europe Travel/{ => www}/index.html (100%)
+ rename Europe Travel/{ => www}/js/script.js (100%)
+ create mode 100644 cloudbuild.yaml
