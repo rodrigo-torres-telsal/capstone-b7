@@ -328,3 +328,449 @@ no changes added to commit (use "git add" and/or "git commit -a")
  rename Europe Travel/{ => www}/index.html (100%)
  rename Europe Travel/{ => www}/js/script.js (100%)
  create mode 100644 cloudbuild.yaml
+    1  ls
+    2  gitcloud auth 
+    3  gitcloud auth list
+    4  gicloud auth list
+    5  gcloud auth
+    6  gcloud auth list
+    7  gcloud auth login
+    8  gcloud auth list
+    9  gcloud instances list
+   10  gcloud compute instances list
+   11  binaryauthorization.policy.testIamPermissions
+   12  gcloud iam roles list
+   13  gcloud init
+   14  gcloud app deplot
+   15  gcloud app deploy
+   16  gcloud app deploy --rartiaga-dev
+   17  gcloud app deploy --project rartiaga-dev
+   18  ls
+   19  mkdir Capstone-pj-b7
+   20  ls
+   21  cd Capstone-pj-b7/
+   22  ls
+   23  git clone https://github.com/GNiruthian/Europe-Travel-Website-html-css-js.git
+   24  ls
+   25  cd Europe-Travel-Website-html-css-js/
+   26  ls
+   27  cat README.md 
+   28  cd Europe\ Travel/
+   29  ls
+   30  cd ..
+   31  ;s
+   32  clear
+   33  ls
+   34  cd Europe\ Travel/
+   35  ls
+   36  sudo apt update
+   37  sudo apt upgrade
+   38  sudo apt update
+   39  clear
+   40  sudo apt-get install nginx
+   41  gcloud components update.
+   42  gcloud components update
+   43  clear
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd ..
+   48  ls
+   49  git status
+   50  ls
+   51  cd Europe-Travel-Website-html-css-js/
+   52  git status
+   53  cd ..
+   54  ;s
+   55  ls
+   56  rm -R Europe-Travel-Website-html-css-js/
+   57  y
+   58  yls
+   59  ls
+   60  clear
+   61  ls
+   62  git clone https://github.com/GNiruthian/Europe-Travel-Website-html-css-js.git
+   63  ls
+   64  cd Europe-Travel-Website-html-css-js/
+   65  ls
+   66  pwd
+   67  cp Europe\ Travel/ /home/rartiaga/Capstone-pj-b7/
+   68  cp -r Europe\ Travel/ /home/rartiaga/Capstone-pj-b7/
+   69  ls
+   70  cp LICENSE /home/rartiaga/Capstone-pj-b7/
+   71  cd ..
+   72  ls
+   73  rm -R Europe-Travel-Website-html-css-js/
+   74  y
+   75  ls
+   76  ssh-keygen -t rsa -b 4096 -C "rodrigo.torres@telsal.cloud"
+   77  cd
+   78  cd .ssh/
+   79  ls
+   80  cat id_rsa.pub 
+   81  cd
+   82  ls
+   83  cd Capstone-pj-b7/
+   84  ls
+   85  git clone git@github.com:rodrigo-torres-telsal/capstone-b7.git
+   86  l
+   87  cd capstone-b7/
+   88  git status
+   89  pwd
+   90  cd ..
+   91  ls
+   92  cp Europe\ Travel/ /home/rartiaga/Capstone-pj-b7/capstone-b7
+   93  mv -r Europe\ Travel/ /home/rartiaga/Capstone-pj-b7/capstone-b7
+   94  mv -R Europe\ Travel/ /home/rartiaga/Capstone-pj-b7/capstone-b7
+   95  mv Europe\ Travel/ /home/rartiaga/Capstone-pj-b7/capstone-b7
+   96  ls
+   97  mv LICENSE /home/rartiaga/Capstone-pj-b7/capstone-b7
+   98  ls
+   99  cd capstone-b7/
+  100  ls
+  101  git add .
+  102  ls
+  103  touch file.log
+  104  ls
+  105  git add .
+  106  git commit -m "This is our capstone project. Uploaded file structure." > file.log
+  107  git config --global user.email rodrigo.torres@telsal.cloud
+  108  git config --global user.name Batch7
+  109  git commit -m "This is our capstone project. Uploaded file structure." > file.log
+  110  cat fo
+  111  cat file.log 
+  112  git push
+  113  nano file.log 
+  114  git status
+  115  git add .
+  116  git commit -m "Modified log" >> file.log 
+  117  touch file.log 
+  118  ls
+  119  cat file.log 
+  120  nano file.log 
+  121  git add .
+  122  git commit -m "File.log" >> file.log 
+  123  git push
+  124  nano README.md 
+  125  git add .
+  126  git status 
+  127  git commit -m "Modified README file" >> file.log 
+  128  nano file.log 
+  129  git push
+  130  nano README.md 
+  131  touch file.log 
+  132  cat file.log 
+  133  git add .
+  134  git commit -m "Modified Readme file" > file.log
+  135  nano file.log 
+  136  git status >> file.log 
+  137  nano file.log 
+  138  git status
+  139  nano file.log 
+  140  git push
+  141  LS
+  142  l
+  143  clear
+  144  ls
+  145  git status
+  146  git add .
+  147  git commit -m "Modified file"
+  148  git push
+  149  git status
+  150  clear
+  151  export PROJECT_ID=rartiaga-dev
+  152  echo $PROJECT_ID
+  153  gcloud config set project $PROJECT_ID 
+  154  docker images
+  155  gcloud artifacts repositories create batch7-repo
+  156  gcloud artifacts repositories create batch7-repo --repository-format=docker --location=us-west1
+  157  docker build -t us-west1 -docker .pkg.dev/
+  158  docker build -t us-west1 -docker .pkg.dev/${PROJECT_ID}/batch7-repo/website:v1
+  159  docker build -t us-west1 -docker.pkg.dev/${PROJECT_ID}/batch7-repo/website:v1
+  160  docker build -t us-west1-docker.pkg.dev/${PROJECT_ID}/batch7-repo/website:v1 .
+  161  ls
+  162  cd Capstone-pj-b7/
+  163  git status
+  164  ls
+  165  cd capstone-b7/
+  166  git status
+  167  ls
+  168  cd Europe\ Travel/
+  169  ls
+  170  touch Dockerfile
+  171  nano Dockerfile 
+  172  ls
+  173  git add .
+  174  git commit -m 'Dockerfile created'
+  175  git push
+  176  docker build -t web-image:v1 .
+  177  docker images
+  178  ls
+  179  docker run -d -p 8080:8080 html-server-image:v1
+  180  docker run -d -p 8080:8080 web-image:v1
+  181  curl localhost:8080
+  182  docker run -d -p 80:80 web-image:v1
+  183  curl localhost:8080
+  184  curl localhost:80
+  185  ls
+  186  curl localhost:80
+  187  git staus
+  188  git status
+  189  gcloud artifacts repositories describe
+  190  gcloud artifacts repositories describe --location=us-west1
+  191  gcloud artifacts repositories create capstone-b7-rep
+  192  gcloud artifacts repositories create capstone-b7-rep --repository-format=docker --location=us-central1 --description="This is a repository for capstone project batch 7" \
+  193  gcloud artifacts repositories describe capstone-b7-rep --location=us-central1
+  194  ls
+  195  touch cloudbuild.yaml
+  196  nano cloudbuild.yaml 
+  197  ls
+  198  cd
+  199  ls
+  200  ls -a
+  201  cat .docker/config.json 
+  202  nano .docker/config.json 
+  203  cd 
+  204  ls
+  205  cd Capstone-pj-b7/
+  206  sl
+  207  ls
+  208  cd capstone-b7/
+  209  ls
+  210  cd Europe\ Travel/
+  211  ls
+  212  clear
+  213  us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image
+  214  docker images
+  215  docker tag f047bcead2d6 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image
+  216  docker push us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image
+  217  ls
+  218  docker images
+  219  gcloud config set compute/region us-central1
+  220  glcoud container clusters create-auto capstone-batch7-cluster
+  221  gcloud container clusters create-auto capstone-batch7-cluster
+  222  gcloud container clusters get-credentials capstone-batch7-cluster --region us-central1
+  223  docker images
+  224  kubectl create deployment us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image --image=us-central1 -docker.pkg.dev/rartiaga-dev/capstone-b7-rep/us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:v1
+  225  rartiaga@cloudshell:~/Capstone-pj-b7/capstone-b7/Europe Travel (rartiaga-dev)$ 
+  226  clear
+  227  kubectl create deployment us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image --image=us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:v1
+  228  kubectl create deployment web-image --image=us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:v1
+  229  kubectl scale deployment web-image --replicas=3
+  230  kubectl autoscale deployment web-image --cpu-percent=80 --min=1 --max=5
+  231  kubectl get pods
+  232  docker pull web-image:v1
+  233  NAME                        READY   STATUS             RESTARTS   AGE
+  234  clear
+  235  docker pull image_name:tag
+  236  docker pull web-image:v1
+  237  docker images
+  238  docker pull web-image:latest
+  239  docker pull us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:latest
+  240  ls
+  241  gcloud container clusters get-credentials capstone-batch7-cluster --region us-central1
+  242  kubectl create deployment us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image --image=us-central1-docker.pkg.dev/${rartiaga-dev}/capstone-b7-rep/us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:latest
+  243  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/${rartiaga-dev}/capstone-b7-rep/web-image:v1
+  244  dockers images
+  245  docker images
+  246  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/${rartiaga-dev}/capstone-b7-rep/f047bcead2d6:v1
+  247  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/f047bcead2d6:v1
+  248  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:v1
+  249  ls
+  250  docker image
+  251  docker images
+  252  clear
+  253  docker image
+  254  clear
+  255  docker images
+  256  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image
+  257  docker run --rm -p 80:80 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image
+  258  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:v1
+  259  docker images
+  260  docker run --rm -p 8080:8080 us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:latest
+  261  CLEAR
+  262  clear
+  263  kubectl get pods
+  264  gcloud container clusters get-credentials capstone-batch7-cluster --region us-central1
+  265  kubectl create deployment web-image --image=us-central1-docker.pkg.dev/rartiaga-dev/capstone-b7-rep/web-image:latest
+  266  kubectl get pods
+  267  kubectl expose deployment web-image --name=web-image-service --type=LoadBalancer --port 80 --target-port 80
+  268  kubectl get servuce
+  269  kubectl get service
+  270  kubectl expose deployment web-image --name=web-image-service --type=LoadBalancer --port 80 --target-port 8080
+  271  kubectl get service
+  272  kubectl expose deployment web-image --name=web-image-service --type=LoadBalancer --port 80 --target-port 8080
+  273  kubectl get service
+  274  kubectl scale deployment web-image --replicas=3
+  275  kubectl autoscale deployment web-image --cpu-percent=80 --min=1 --max=5
+  276  kubectl get pods
+  277  kubectl expose deployment web-image --name=web-image-service --type=LoadBalancer --port 80 --target-port 80
+  278  kubectl get service
+  279  docker images
+  280  kubectl get pods
+  281  ls
+  282  cd ..
+  283  ;s
+  284  ls
+  285  cat fo
+  286  cat file.log 
+  287  hitory
+  288  history
+  289  git status
+  290  history >> file.log 
+  291  cd Europe\ Travel/
+  292  ls
+  293  rm cloudbuild.yaml 
+  294  cd ..
+  295  git add .
+  296  git commit -m 
+  297  git commit -m "This is the latest update" >> file.log 
+  298  git push
+  299  nano file.log 
+  300  cat file.log 
+  301  git status
+  302  ls
+  303  git pull
+  304  git add .
+  305  git commit -m "Files modified"
+  306  git push
+  307  git status
+  308  cat README.md 
+  309  CLEAR
+  310  clear
+  311  docker images
+  312  ls
+  313  cd Capstone-pj-b7/
+  314  ls
+  315  cd capstone-b7/
+  316  ls
+  317  nano cloudbuild.yaml
+  318  pwd
+  319  ls
+  320  cd Europe\ Travel/
+  321  ls
+  322  pwd
+  323  cd .
+  324  cd ..
+  325  ;s
+  326  ls
+  327  gcloud builds submit --region=us-central1 /home/rartiaga/Capstone-pj-b7/capstone-b7/Europe\ Travel/
+  328  ls
+  329  nano app.yaml
+  330  pwd
+  331  nano app.yaml
+  332  ls
+  333  gcloud builds submit --region=us-central1 /home/rartiaga/Capstone-pj-b7/capstone-b7/Europe\ Travel/
+  334  mv app.yaml Europe\ Travel/
+  335  cd Europe\ Travel/
+  336  ls
+  337  cd ..
+  338  cd Europe\ Travel/
+  339  cd images/
+  340  ls
+  341  pwd
+  342  cd ..
+  343  nano app.yaml 
+  344  ls
+  345  cd ..
+  346  ls
+  347  cd ..
+  348  cd capstone-b7/
+  349  cd Europe\ Travel/
+  350  ls
+  351  gcloud builds submit --region=us-central1 /home/rartiaga/Capstone-pj-b7/capstone-b7/Europe\ Travel/
+  352  cd ..
+  353  gcloud builds submit --region=us-central1 /home/rartiaga/Capstone-pj-b7/capstone-b7/Europe\ Travel/
+  354  ls
+  355  cd Capstone-pj-b7/
+  356  ls
+  357  cd capstone-b7/
+  358  ks
+  359  ls
+  360  nano cloudbuild.yaml 
+  361  cd Europe\ Travel/
+  362  ls
+  363  nano app.yaml 
+  364  ls
+  365  cd ..
+  366  ls
+  367  cd ..
+  368  ls
+  369  cd capstone-b7/
+  370  ls
+  371  cd Europe\ Travel/
+  372  ls
+  373  cd ..
+  374  ls
+  375  cd Europe\ Travel/
+  376  ls
+  377  nano app.yaml 
+  378  ls
+  379  tree
+  380  cd ..
+  381  s
+  382  ls
+  383  tree
+  384  cd
+  385  cd Capstone-pj-b7/
+  386  cd capstone-b7/
+  387  ls
+  388  cd Europe\ Travel/
+  389  ls
+  390  mkdir www
+  391  ls
+  392  mv css www
+  393  ls
+  394  mv images www
+  395  mv js www
+  396  ks
+  397  l
+  398  clear
+  399  ls
+  400  mv index.html www
+  401  cd www/
+  402  ls
+  403  cd css
+  404  ls
+  405  cd ..
+  406  ls
+  407  cd ..
+  408  ls
+  409  nano app.yaml 
+  410  gcloud app deploy
+  411  gcloud app browse
+  412  cd ..
+  413  ls
+  414  git add .
+  415  git commit -m "We deployed the app on all services" >> file.log 
+  416  git puh
+  417  git push
+  418  git status
+  419  git add .
+  420  git commit -m "Finished project"
+  421  git push
+  422  git status
+  423  cd Europe\ Travel/
+  424  ls
+  425  cat app.yaml 
+  426  ls
+  427  docker images
+  428  cd ..
+  429  docker imags
+  430  docker images
+  431  cd ..
+  432  ks
+  433  ls
+  434  cd capstone-b7/
+  435  ls
+  436  docker images
+  437  cd ..
+  438  cd capstone-b7/
+  439  ls
+  440  cd Europe\ Travel/
+  441  docker images
+  442  cd ..
+  443  history
+  444  LS
+  445  ls
+  446  history >> file.log 
